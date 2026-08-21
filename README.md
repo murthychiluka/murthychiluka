@@ -132,7 +132,7 @@ I'm always interested in connecting with fellow **Cloud, DevOps, Kubernetes, and
 
 📧 **Email:** *murthychiluka@gmail.com*
 
-💼 **LinkedIn:** *[Add your LinkedIn profile here*](https://www.linkedin.com/in/murthychl/)
+💼 **LinkedIn:** *https://www.linkedin.com/in/murthychl*
 
 🐙 **GitHub:** [github.com/murthychiluka](https://github.com/murthychiluka)
 
